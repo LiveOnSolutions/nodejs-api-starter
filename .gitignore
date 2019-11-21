@@ -1,0 +1,8 @@
+node_modules
+logs
+.env
+.env.development
+package-lock.json
+yarn.lock
+app/public/documentation
+data

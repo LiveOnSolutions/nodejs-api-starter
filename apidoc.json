@@ -1,0 +1,11 @@
+{
+  "name": "Server - API",
+  "title": "Server API - Documentation",
+  "version": "1.0.0",
+  "description": "Api server documentation",
+  "template": {
+    "withCompare": true,
+    "withGenerator": false,
+    "forceLanguage": "en"
+  }
+}
