@@ -1,3 +1,3 @@
 #!/bin/bash
-npm run doc
+# npm run doc
 npm run dev
